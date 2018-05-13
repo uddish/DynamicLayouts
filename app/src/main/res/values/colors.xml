@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E84C3D</color>
+    <color name="colorPrimaryDark">#a3352b</color>
+
+    <color name="reddish">#b83c30</color>
+    <color name="tomato">#e74c3c</color>
+    <color name="tomato_12">#1ee74c3c</color>
+    <color name="golden_rod">#f1c40f</color>
+    <color name="mid_green">#43a047</color>
+    <color name="mid_green_12">#1e43a047</color>
+    <color name="orange_yellow">#ffa000</color>
+    <color name="sunshine_yellow">#ffeb3b</color>
+    <color name="colorAccent">#e74c3c</color>
+</resources>
